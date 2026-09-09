@@ -7,6 +7,5 @@ Here's a few things I've been doing recently (not all necessarily coding related
 Here's a few things currently on hold:
 1. Getting better at coding in React and using the MERN stack
 2. Learning how to use and manage all of the dependencies in the stuyspec website
-3. Fixing the pdf website for stuyspec
 
 If you need to reach me, unless it's something extremely important, don't.

@@ -1,8 +1,9 @@
 Hello! I'm Aurora, and this is my profile.
 
 Here's a few things I've been doing recently (not all necessarily coding related):
-1. Learning Autodesk Fusion
-2. 3D Printing with said Fusion Models
+1. Learning Rust
+2. Learning Autodesk Fusion
+3. 3D Printing with said Fusion Models
 
 Here's a few things currently on hold:
 1. Getting better at coding in React and using the MERN stack
